@@ -1,0 +1,27 @@
+{
+  "name": "mytron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "initencounter",
+    "email": "2911583893@qq.com",
+    "url": "https://github.com/initialencounter"
+  },
+  "license": "AGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/initialencounter/mytron.git"
+  },
+  "bugs": {
+    "url": "https://github.com/initialencounter/mytron/issues"
+  },
+  "homepage": "https://github.com/initialencounter/mytron",
+  "devDependencies": {
+    "electron": "^26.2.1"
+  }
+}
